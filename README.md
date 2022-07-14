@@ -1,3 +1,2 @@
-# JavaStudy-220714
-
+# JavaStudy_220714
 자바 Thread 공부
